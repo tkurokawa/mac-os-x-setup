@@ -19,8 +19,8 @@
 
 - name: Copy getmail plist
   template:
-    src: Library/LaunchAgents/local.knakayama.getnewmail.plist.j2
-    dest: ~/Library/Preferences/local.knakayama.getnewmail.plist
+    src: Library/LaunchAgents/local.tatsuya.kurokawa.getnewmail.plist.j2
+    dest: ~/Library/Preferences/local.tatsuya.kurokawa.getnewmail.plist
     owner: "{{ ansible_user_id }}"
     group: staff
     mode: 0600

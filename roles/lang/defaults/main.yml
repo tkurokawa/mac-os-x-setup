@@ -8,7 +8,6 @@ gem_packages:
 go_packages:
   - { name: httpdoc, path: github.com/bfontaine/httpdoc }
   - { name: gotty, path: github.com/yudai/gotty }
-  - { name: ghdump, path: github.com/knakayama/ghdump }
   - { name: apex-shell, path: github.com/apex/apex-shell }
 
 npm_packages:

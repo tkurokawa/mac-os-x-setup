@@ -660,7 +660,7 @@
           </dict>
         </dict>
         <key>Log Directory</key>
-        <string>/Users/knakayama/iterm2logs</string>
+        <string>/Users/tatsuya.kurokawa/iterm2logs</string>
         <key>Minimum Contrast</key>
         <real>0.0</real>
         <key>Mouse Reporting</key>
@@ -844,7 +844,7 @@
         <key>Window Type</key>
         <integer>0</integer>
         <key>Working Directory</key>
-        <string>/Users/knakayama</string>
+        <string>/Users/tatsuya.kurokawa</string>
       </dict>
     </array>
     <key>OnlyWhenMoreTabs</key>
@@ -895,7 +895,7 @@
       </dict>
     </dict>
     <key>PrefsCustomFolder</key>
-    <string>/Users/knakayama/.ghq/github.com/knakayama/mac-os-x-setup</string>
+    <string>/Users/tatsuya.kurokawa/.ghq/github.com/tkurokawa/mac-os-x-setup</string>
     <key>PromptOnQuit</key>
     <true/>
     <key>QuitWhenAllWindowsClosed</key>

@@ -85,7 +85,6 @@ homebrew_packages:
   - { name: tig }
   - { name: ruby-build }
   - { name: rbenv-binstubs }
-  - { name: w3m }
   - { name: tmux }
   - { name: reattach-to-user-namespace }
   - { name: sha2 }
