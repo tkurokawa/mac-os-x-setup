@@ -15,7 +15,11 @@ homebrew_taps:
 homebrew_cask_packages:
   - { name: iterm2 }
   - { name: firefox }
+  - { name: google-chrome }
   - { name: google-japanese-ime }
+  - { name: sourcetree }
+  - { name: kobito }
+  - { name: pycharm }
   - { name: java }
   - { name: karabiner-elements }
   - { name: vagrant }
@@ -24,9 +28,23 @@ homebrew_cask_packages:
   - { name: xquartz }
   - { name: alfred }
   - { name: gimp }
-  - { name: macvim }
   - { name: slack }
-  - { name: skype }
+  - { name: betterzipql }
+  - { name: qlcolorcode }
+  - { name: qlimagesize }
+  - { name: qlmarkdown }
+  - { name: qlprettypatch }
+  - { name: qlstephen }
+  - { name: slack }
+  - { name: quicklook-csv }
+  - { name: quicklook-json }
+  - { name: webpquicklook }
+  - { name: appcleaner }
+  - { name: bettertouchtool }
+  - { name: flux }
+  - { name: geektool }
+  - { name: mysqlworkbench }
+  - { name: omnigraffle }
 
 homebrew_packages:
   - { name: brew-cask }
@@ -45,18 +63,26 @@ homebrew_packages:
   - { name: wget }
   - { name: curl }
   - { name: cmake }
+  - { name: cabocha }
   - { name: autoconf }
   - { name: automake }
   - { name: pkg-config }
   - { name: ctags }
+  - { name: crf++ }
   - { name: tree }
   - { name: nkf }
   - { name: jq }
   - { name: go }
   - { name: direnv }
+  - { name: mecab }
+  - { name: mysql }
+  - { name: mecab-ipadic }
   - { name: peco }
   - { name: hub }
+  - { name: jpeg }
+  - { name: libpng }
   - { name: rbenv }
+  - { name: tig }
   - { name: ruby-build }
   - { name: rbenv-binstubs }
   - { name: w3m }
