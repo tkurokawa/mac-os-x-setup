@@ -46,7 +46,6 @@ homebrew_cask_packages:
   - { name: omnigraffle }
 
 homebrew_packages:
-  - { name: brew-cask }
   - { name: ghq, install_options: completions }
   - { name: pcre }
   - { name: libxml2 }
