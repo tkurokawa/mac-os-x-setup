@@ -90,7 +90,7 @@ homebrew_packages:
   - { name: xz }
   - { name: lua }
   - { name: neovim/neovim/neovim }
-  - { name: rsense }
+  - { name: vim }
   - { name: pyenv }
   - { name: pyenv-virtualenv }
   - { name: plenv }
@@ -127,3 +127,4 @@ homebrew_packages:
   - { name: packer }
   - { name: consul }
   - { name: vault }
+  - { name: the_silver_searcher }
