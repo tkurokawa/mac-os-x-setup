@@ -18,7 +18,6 @@ homebrew_cask_packages:
   - { name: google-chrome }
   - { name: google-japanese-ime }
   - { name: sourcetree }
-  - { name: kobito }
   - { name: pycharm }
   - { name: java }
   - { name: karabiner-elements }
